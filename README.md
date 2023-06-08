@@ -8,10 +8,11 @@ So here I am, hoping to make a complete list of everything available to us. Of c
 #### The links:
 * **Main Website:** [https://study.iitm.ac.in/ds/](https://study.iitm.ac.in/ds/)
 * **Useful links for Students:**
-   * [Measuring Conceptual Clarity and Understanding](https://discourse.onlinedegree.iitm.ac.in/t/measuring-conceptual-clarity-and-understanding/85980/16)
+   * **Measuring Conceptual Clarity and Understanding:** [Click here](https://discourse.onlinedegree.iitm.ac.in/t/measuring-conceptual-clarity-and-understanding/85980/16)
       * It addresses important issues regarding learning and understanding, and wonderful ways to deal with them. (Must Read)
-   * [Breaking Barriers](https://www.youtube.com/watch?v=uOcgv5OR6zU)
+   * **Breaking Barriers:** [Click here](https://www.youtube.com/watch?v=uOcgv5OR6zU)
       * The IIT Madras Story
+   * **Unoffical guide for Paradox:** [Click here](https://discourse.onlinedegree.iitm.ac.in/t/unofficial-guide-for-paradox-based-on-paradox-2023/86602)
 * **IITM BS Students Website:** [https://www.iitmbs.org/](https://www.iitmbs.org/)
 * **IITM BS Students Portal (Unofficial):** [https://portal.iitmbs.org/](https://portal.iitmbs.org/)
    * **Official WhatsApp Bot**: [Chat Link](https://wa.me/message/IVROM2UN7XIJL1)
