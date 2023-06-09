@@ -21,6 +21,8 @@ So here I am, hoping to make a complete list of everything available to us. Of c
    * **IITM BS Student Network**: [https://portal.iitmbs.org/network](https://portal.iitmbs.org/network)
    * **IITM BS Placements Committee**: [Click here](https://sites.google.com/study.iitm.ac.in/dsplacements)
    * **Know Your Representatives:** [Here](https://portal.iitmbs.org/representatives)
+* **IITM BS Student Community:** [Click here](https://sites.google.com/student.onlinedegree.iitm.ac.in/iitmbs-community)
+   * It is one place to find most of the groups across different levels of the program or accross different regions of India.
 * **Student Dashboard**: [Click here](https://app.onlinedegree.iitm.ac.in/student_dashboard/current_courses)
    * **Tip:** It's usually an inconvenience to login into the portal every time you want to access a course. Instead, once you reach the specific course page (NPTEL Seekh), you can save the link (by adding to home screen, to start menu, etc..) and when you open using that link, you won't be asked to login repeatedly.
 *  **Student Handbook (Important):** [Handbook](https://drive.google.com/file/d/1reCLaan2aUfjcAvgXEFne7j3p1j93ZcQ/view?usp=sharing)
